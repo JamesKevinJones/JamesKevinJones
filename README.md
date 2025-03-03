@@ -4,8 +4,8 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Next.js and Nuxt.js
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 💬 Ask me about React Native, React, Vue, Javascript, Expo, Python
-- ⚡ Fun fact: I love to sing
+- 💬 Ask me about Javascript, React and Python
+- ⚡ Fun fact: I love to read books
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jameskevinjones) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameskevinjones) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KevinJo65718435)
