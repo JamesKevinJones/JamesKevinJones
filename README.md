@@ -1,21 +1,21 @@
-# Hi there, I'm J Kevin Jones 👋
+# Hi there, I'm Kevin Jones 👋
 
-### Software Engineer | 3rd-Year CSE Student
+### Software Engineer | 3rd-Year CSE Student at SRM Ramapuram
 
 I am a Full-Stack Developer focused on building high-performance SaaS applications, AI integrations, and scalable web platforms. 
 
-- 🔭 **Currently building:** Advanced web applications including MedFlow (real-time hospital operations SaaS) and FixFlow (AI-augmented tools).
-- 🌱 **Currently mastering:** Next.js, TypeScript, and modern system architectures.
+- 🔭 **Currently building:** Advanced web applications including MedFlow, FixFlow, and rapid crisis response architectures.
+- 🌱 **Currently mastering:** Next.js, TypeScript, and Data Structures & Algorithms.
 - 💼 **Experience:** Former Web Development Intern at Oasis Infobyte.
-- 💬 **Ask me about:** React, Node.js, and full-stack development.
-- ⚡ **Fun fact:** When I'm not pushing code, I'm probably reading a book, analyzing Formula 1 race stats, or out for a 5km run.
+- 💬 **Ask me about:** React, Node.js, Tailwind CSS, and full-stack development.
+- ⚡ **Fun fact:** When I'm not pushing code, I'm probably hitting the gym, analyzing Formula 1 race stats, running a 5K, or maintaining my daily chess streak.
 
 ---
 
 ### 💻 Tech Stack
 
 *   **Languages:** TypeScript, JavaScript, Python, Java, C++
-*   **Frameworks & Libraries:** React.js, Next.js, Node.js
+*   **Frameworks & Libraries:** React.js, Next.js, Node.js, Tailwind CSS
 *   **Tools & Platforms:** Git, GitHub, Vercel, Figma
 
 ---
@@ -23,8 +23,8 @@ I am a Full-Stack Developer focused on building high-performance SaaS applicatio
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesKevinJones&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKevinJones&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesKevinJones&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKevinJones&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="40%" />
 </div>
 
 ---
