@@ -22,8 +22,11 @@ I am a Full-Stack Developer focused on building high-performance SaaS applicatio
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesKevinJones&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=false)](https://github.com/JamesKevinJones)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKevinJones&theme=dark&hide_border=false&layout=compact)](https://github.com/JamesKevinJones)
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/JamesKevinJones?config.theme=dark" alt="GitHub Metrics" width="80%" />
+</div>
 
 ---
 
