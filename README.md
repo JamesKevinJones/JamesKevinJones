@@ -1,15 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=190&section=header&text=Kevin%20Jones&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Product%20Engineer&descSize=18&descAlignY=56" width="100%" alt="Kevin Jones" />
+
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Kevin+Jones;Full-Stack+%26+AI+Product+Engineer;I+ship+SaaS%2C+RAG%2C+%26+live+demos" alt="Typing SVG" />
-
-### Full-stack / AI product engineer — Next.js · TypeScript · Python
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Next.js+%C2%B7+TypeScript+%C2%B7+Python;RAG%2C+agent+memory%2C+and+streaming+UIs;Every+project+below+has+a+live+demo" alt="Typing SVG" />
 
 Open to **internships** & **full-time SWE** · Chennai · CSE @ SRM Ramapuram
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kjs-47.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameskevinjones)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesKevinJones)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KevinJo65718435)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jameskevinjones)
+
+<img src="https://komarev.com/ghpvc/?username=JamesKevinJones&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -20,7 +22,7 @@ Open to **internships** & **full-time SWE** · Chennai · CSE @ SRM Ramapuram
 - **Ship end-to-end SaaS** — Next.js / TypeScript frontends paired with Node and Python APIs, deployed on Vercel with working product links.
 - **Build AI product features** — hybrid RAG, agent memory, grounded search with citations, and cloud LLM backends (AWS Bedrock).
 - **Own systems concerns** — sliding-window rate limiting, Redis / CockroachDB persistence, streaming UIs, and live dashboards.
-- **Prove it in public** — every featured project below has a repo and (where available) a live demo you can click through today.
+- **Prove it in public** — every featured project below has a repo and a live demo you can click through today.
 
 ---
 
@@ -37,6 +39,22 @@ Proof over claims — problem, stack, and links.
 | **RiskPulse** | Real-time payment risk scoring — IBM Z Datathon 2026 | Python, IBM Z | [Repo](https://github.com/JamesKevinJones/riskpulse) |
 | **Netwok** | Interactive urban CCI lab: sectoring + power control to clear dropped calls (SIR &lt; 18 dB) | TypeScript, systems / networking | [Demo](https://netwok-five.vercel.app) · [Repo](https://github.com/JamesKevinJones/Netwok) |
 
+<details>
+<summary><b>More builds</b> — side projects and experiments</summary>
+
+<br/>
+
+| Project | What it does | Links |
+| :--- | :--- | :--- |
+| **StreakForge** | Tracks GitHub and LeetCode coding streaks with freeze credits and an activity heatmap | [Demo](https://streakforge-gules.vercel.app) · [Repo](https://github.com/JamesKevinJones/streakforge) |
+| **BudgetMaster** | Budgeting app experience built for everyday tracking | [Repo](https://github.com/JamesKevinJones/BudgetMaster) |
+| **Odysseus** | Self-hosted AI workspace | [Repo](https://github.com/JamesKevinJones/odysseus) |
+| **Glass To-Do** | Glassmorphism task UI, pure CSS craft | [Demo](https://glass-to-do.vercel.app) · [Repo](https://github.com/JamesKevinJones/Glass-to-do) |
+| **Portfolio** | Minimal personal site in React + Vite | [Demo](https://portfolio-kjs-47.vercel.app) · [Repo](https://github.com/JamesKevinJones/Portfolio) |
+| **Space Invaders** | Modernised Atari classic in vanilla JS | [Demo](https://space-invaders-amber.vercel.app) · [Repo](https://github.com/JamesKevinJones/Space-invaders) |
+
+</details>
+
 ---
 
 ## Skills as evidence
@@ -45,10 +63,10 @@ Not a laundry list — each cluster maps to shipped work above.
 
 | Capability | Tools | Evidence |
 | :--- | :--- | :--- |
-| **Frontend product** | React, Next.js, TypeScript, Tailwind CSS | JobMatch RAG, Portfolio, Glass UI work |
+| **Frontend product** | React, Next.js, TypeScript, Tailwind CSS | JobMatch RAG, Portfolio, Glass To-Do |
 | **AI / LLM systems** | RAG, AWS Bedrock, agent memory, cited search | JobMatch RAG, MemoryVault AI, Folio |
 | **Backend & platforms** | Node.js, FastAPI, Redis, CockroachDB, Vercel | Rate Limiter, MemoryVault AI |
-| **Foundations** | DSA, Java, C++, Git / GitHub | Coursework + daily practice |
+| **Foundations** | DSA, Java, C++, Git / GitHub | LeetCode practice (card below) |
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -62,6 +80,81 @@ Not a laundry list — each cluster maps to shipped work above.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
+<details>
+<summary><b>Full toolchain</b> — everything else I work with</summary>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white" alt="CockroachDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Move-4285F4?style=flat-square&logo=sui&logoColor=white" alt="Move" />
+</p>
+
+</details>
+
+---
+
+## Contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamesKevinJones/JamesKevinJones/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JamesKevinJones/JamesKevinJones/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/JamesKevinJones/JamesKevinJones/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Live stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=JamesKevinJones&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=JamesKevinJones&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JamesKevinJones&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JamesKevinJones&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## DSA practice
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/KevinJonesJames?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+
+</div>
+
+---
+
+<details>
+<summary><b>Recent activity</b> — auto-updated from my GitHub events</summary>
+
+<br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 ---
 
@@ -77,20 +170,23 @@ Not a laundry list — each cluster maps to shipped work above.
 
 I design and deploy full-stack products that connect clean UX to real backends — retrieval pipelines, agent memory, rate limits, and networking labs included. When I’m not shipping, I’m usually in the gym, tracking Formula 1 race stats, running a 5K, or keeping a daily chess streak.
 
----
+<div align="center">
 
-## Connect
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
+
+</div>
+
+---
 
 <div align="center">
 
+### Let's build something
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kjs-47.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameskevinjones)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KevinJo65718435)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jameskevinjones)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kjs-47.vercel.app)
-
-<br/>
-
-<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=JamesKevinJones&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JamesKevinJones&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="" />
