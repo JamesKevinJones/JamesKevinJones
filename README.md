@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=190&section=header&text=Kevin%20Jones&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Product%20Engineer&descSize=18&descAlignY=56" width="100%" alt="Kevin Jones" />
-
 <div align="center">
+
+# Kevin Jones
+
+### Full-Stack & AI Product Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Next.js+%C2%B7+TypeScript+%C2%B7+Python;RAG%2C+agent+memory%2C+and+streaming+UIs;Every+project+below+has+a+live+demo" alt="Typing SVG" />
 
@@ -192,5 +194,3 @@ I design and deploy full-stack products that connect clean UX to real backends â
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jameskevinjones)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="" />
