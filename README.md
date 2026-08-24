@@ -123,16 +123,16 @@ Not a laundry list — each cluster maps to shipped work above.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=JamesKevinJones&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=JamesKevinJones&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats-nine-weld-24.vercel.app/api?username=JamesKevinJones&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats-lilac-omega.vercel.app?user=JamesKevinJones&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JamesKevinJones&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-nine-weld-24.vercel.app/api/top-langs/?username=JamesKevinJones&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JamesKevinJones&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+<img width="98%" src="https://github-readme-activity-graph-zeta-blond.vercel.app/graph?username=JamesKevinJones&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
