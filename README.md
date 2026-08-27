@@ -154,7 +154,7 @@ Not a laundry list — each cluster maps to shipped work above.
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/JamesKevinJones/PY_Slot-machine/pull/1) in [JamesKevinJones/PY_Slot-machine](https://github.com/JamesKevinJones/PY_Slot-machine)
+1. 💪 Opened PR [#80](https://github.com/bilawalsidhu/gods-eye-view/pull/80) in [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 2. 💪 Opened PR [#1](https://github.com/JamesKevinJones/JS_Slot-Machine/pull/1) in [JamesKevinJones/JS_Slot-Machine](https://github.com/JamesKevinJones/JS_Slot-Machine)
 3. 💪 Opened PR [#1](https://github.com/JamesKevinJones/BudgetMaster/pull/1) in [JamesKevinJones/BudgetMaster](https://github.com/JamesKevinJones/BudgetMaster)
 4. 💪 Opened PR [#1](https://github.com/JamesKevinJones/2048.js/pull/1) in [JamesKevinJones/2048.js](https://github.com/JamesKevinJones/2048.js)
