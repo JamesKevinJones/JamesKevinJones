@@ -154,10 +154,10 @@ Not a laundry list — each cluster maps to shipped work above.
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/JamesKevinJones/Memoryvault-ai/pull/1) in [JamesKevinJones/Memoryvault-ai](https://github.com/JamesKevinJones/Memoryvault-ai)
-2. 💪 Opened PR [#80](https://github.com/bilawalsidhu/gods-eye-view/pull/80) in [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-3. 💪 Opened PR [#1](https://github.com/JamesKevinJones/BudgetMaster/pull/1) in [JamesKevinJones/BudgetMaster](https://github.com/JamesKevinJones/BudgetMaster)
-4. 💪 Opened PR [#1](https://github.com/JamesKevinJones/2048.js/pull/1) in [JamesKevinJones/2048.js](https://github.com/JamesKevinJones/2048.js)
+1. ❌ Closed PR [#2](https://github.com/JamesKevinJones/webgpu-voxel-engine/pull/2) in [JamesKevinJones/webgpu-voxel-engine](https://github.com/JamesKevinJones/webgpu-voxel-engine)
+2. ❌ Closed PR [#3](https://github.com/JamesKevinJones/webgpu-voxel-engine/pull/3) in [JamesKevinJones/webgpu-voxel-engine](https://github.com/JamesKevinJones/webgpu-voxel-engine)
+3. 🎉 Merged PR [#4](https://github.com/JamesKevinJones/webgpu-voxel-engine/pull/4) in [JamesKevinJones/webgpu-voxel-engine](https://github.com/JamesKevinJones/webgpu-voxel-engine)
+4. 💪 Opened PR [#4](https://github.com/JamesKevinJones/webgpu-voxel-engine/pull/4) in [JamesKevinJones/webgpu-voxel-engine](https://github.com/JamesKevinJones/webgpu-voxel-engine)
 <!--END_SECTION:activity-->
 
 </details>
