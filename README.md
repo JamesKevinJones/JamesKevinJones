@@ -154,10 +154,10 @@ Not a laundry list — each cluster maps to shipped work above.
 <br/>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1](https://github.com/JamesKevinJones/portfolio-website/pull/1) in [JamesKevinJones/portfolio-website](https://github.com/JamesKevinJones/portfolio-website)
-2. 💪 Opened PR [#1](https://github.com/JamesKevinJones/portfolio-website/pull/1) in [JamesKevinJones/portfolio-website](https://github.com/JamesKevinJones/portfolio-website)
-3. 🗣 Commented on [#26](https://github.com/JamesKevinJones/FitMasala/pull/26#issuecomment-5858322150) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
-4. 💪 Opened PR [#26](https://github.com/JamesKevinJones/FitMasala/pull/26) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
+1. 🎉 Merged PR [#36](https://github.com/JamesKevinJones/FitMasala/pull/36) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
+2. 🗣 Commented on [#36](https://github.com/JamesKevinJones/FitMasala/pull/36#issuecomment-5870025435) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
+3. 💪 Opened PR [#36](https://github.com/JamesKevinJones/FitMasala/pull/36) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
+4. 🎉 Merged PR [#35](https://github.com/JamesKevinJones/FitMasala/pull/35) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
 <!--END_SECTION:activity-->
 
 </details>
