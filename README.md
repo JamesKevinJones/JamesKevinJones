@@ -154,10 +154,10 @@ Not a laundry list — each cluster maps to shipped work above.
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/JamesKevinJones/FitMasala/pull/38) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
-2. 🎉 Merged PR [#37](https://github.com/JamesKevinJones/FitMasala/pull/37) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
-3. 💪 Opened PR [#44](https://github.com/JamesKevinJones/FitMasala/pull/44) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
-4. 💪 Opened PR [#43](https://github.com/JamesKevinJones/FitMasala/pull/43) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
+1. 🎉 Merged PR [#1](https://github.com/JamesKevinJones/frontier-platform/pull/1) in [JamesKevinJones/frontier-platform](https://github.com/JamesKevinJones/frontier-platform)
+2. 🎉 Merged PR [#1](https://github.com/JamesKevinJones/seatflow/pull/1) in [JamesKevinJones/seatflow](https://github.com/JamesKevinJones/seatflow)
+3. 🎉 Merged PR [#1](https://github.com/JamesKevinJones/agentshell/pull/1) in [JamesKevinJones/agentshell](https://github.com/JamesKevinJones/agentshell)
+4. 💪 Opened PR [#1](https://github.com/JamesKevinJones/seatflow/pull/1) in [JamesKevinJones/seatflow](https://github.com/JamesKevinJones/seatflow)
 <!--END_SECTION:activity-->
 
 </details>
