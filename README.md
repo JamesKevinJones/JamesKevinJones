@@ -154,10 +154,10 @@ Not a laundry list — each cluster maps to shipped work above.
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JamesKevinJones/frontier-platform/pull/1) in [JamesKevinJones/frontier-platform](https://github.com/JamesKevinJones/frontier-platform)
-2. 🎉 Merged PR [#1](https://github.com/JamesKevinJones/seatflow/pull/1) in [JamesKevinJones/seatflow](https://github.com/JamesKevinJones/seatflow)
-3. 🎉 Merged PR [#1](https://github.com/JamesKevinJones/agentshell/pull/1) in [JamesKevinJones/agentshell](https://github.com/JamesKevinJones/agentshell)
-4. 💪 Opened PR [#1](https://github.com/JamesKevinJones/seatflow/pull/1) in [JamesKevinJones/seatflow](https://github.com/JamesKevinJones/seatflow)
+1. ℹ️ Reopened PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
+2. ❌ Closed PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
+3. 💪 Opened PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
+4. 💪 Opened PR [#46](https://github.com/JamesKevinJones/FitMasala/pull/46) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
 <!--END_SECTION:activity-->
 
 </details>
