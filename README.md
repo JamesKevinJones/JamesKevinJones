@@ -154,10 +154,10 @@ Not a laundry list — each cluster maps to shipped work above.
 <br/>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
-2. ❌ Closed PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
-3. 💪 Opened PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
-4. 💪 Opened PR [#46](https://github.com/JamesKevinJones/FitMasala/pull/46) in [JamesKevinJones/FitMasala](https://github.com/JamesKevinJones/FitMasala)
+1. 💪 Opened PR [#1](https://github.com/JamesKevinJones/job-rag/pull/1) in [JamesKevinJones/job-rag](https://github.com/JamesKevinJones/job-rag)
+2. ℹ️ Reopened PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
+3. ❌ Closed PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
+4. 💪 Opened PR [#1](https://github.com/JamesKevinJones/tiny-gpt/pull/1) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
 <!--END_SECTION:activity-->
 
 </details>
