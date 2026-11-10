@@ -154,10 +154,10 @@ Not a laundry list — each cluster maps to shipped work above.
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/JamesKevinJones/webgpu-voxel-engine/pull/5) in [JamesKevinJones/webgpu-voxel-engine](https://github.com/JamesKevinJones/webgpu-voxel-engine)
-2. 💪 Opened PR [#1](https://github.com/JamesKevinJones/JamesKevinJones/pull/1) in [JamesKevinJones/JamesKevinJones](https://github.com/JamesKevinJones/JamesKevinJones)
-3. 💪 Opened PR [#1](https://github.com/JamesKevinJones/folio/pull/1) in [JamesKevinJones/folio](https://github.com/JamesKevinJones/folio)
-4. 💪 Opened PR [#1](https://github.com/JamesKevinJones/job-rag/pull/1) in [JamesKevinJones/job-rag](https://github.com/JamesKevinJones/job-rag)
+1. 💪 Opened PR [#1](https://github.com/JamesKevinJones/evalbench/pull/1) in [JamesKevinJones/evalbench](https://github.com/JamesKevinJones/evalbench)
+2. 💪 Opened PR [#1](https://github.com/JamesKevinJones/starmatch/pull/1) in [JamesKevinJones/starmatch](https://github.com/JamesKevinJones/starmatch)
+3. 💪 Opened PR [#2](https://github.com/JamesKevinJones/seatflow/pull/2) in [JamesKevinJones/seatflow](https://github.com/JamesKevinJones/seatflow)
+4. 💪 Opened PR [#2](https://github.com/JamesKevinJones/tiny-gpt/pull/2) in [JamesKevinJones/tiny-gpt](https://github.com/JamesKevinJones/tiny-gpt)
 <!--END_SECTION:activity-->
 
 </details>
