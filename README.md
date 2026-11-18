@@ -62,6 +62,25 @@
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamesKevinJones/JamesKevinJones/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JamesKevinJones/JamesKevinJones/output/github-snake.svg" />
+        <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/JamesKevinJones/JamesKevinJones/output/github-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="98%" src="https://github-readme-activity-graph-zeta-blond.vercel.app/graph?username=JamesKevinJones&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/KevinJonesJames/"><img src="https://leetcard.jacoblin.cool/KevinJonesJames?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" /></a>
+    </td>
+  </tr>
 </table>
 
 <details>
